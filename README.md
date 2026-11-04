@@ -2,10 +2,7 @@
 
 Shows the track playing on your computer in a band above the Claude Code prompt, with a progress bar and clickable previous / play-pause / next buttons. On Windows and Linux it follows whichever media player is playing (Spotify, a browser tab, VLC, ...); on macOS it follows Spotify and Apple Music. It reads the local player only: no account, no login and no API token.
 
-```
-♪ Artist - Song · Album
-1:06 ━━━━──────── 4:22  [«] [=] [»]
-```
+![now-playing-band above the Claude Code prompt](docs/screenshot.png)
 
 ## Install
 
