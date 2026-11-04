@@ -1,0 +1,13 @@
+{
+  "name": "now-playing-band",
+  "description": "Now playing band for Claude Code: the track playing on your computer above the prompt, with media buttons.",
+  "owner": {
+    "name": "Matheus Silva"
+  },
+  "plugins": [
+    {
+      "name": "now-playing-band",
+      "source": "./"
+    }
+  ]
+}
