@@ -1,0 +1,20 @@
+{
+  "name": "now-playing-band",
+  "version": "0.4.0",
+  "description": "The track playing on your computer above the prompt, with progress and previous / play-pause / next buttons. Any media player on Windows and Linux; Spotify and Apple Music on macOS. No account or login.",
+  "author": {
+    "name": "Matheus Silva",
+    "url": "https://github.com/Thameus"
+  },
+  "license": "MIT",
+  "keywords": [
+    "now-playing",
+    "music",
+    "media-controls",
+    "spotify"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "types": "./types/index.d.ts",
+  "homepage": "https://github.com/Thameus/now-playing-for-claude-code",
+  "repository": "https://github.com/Thameus/now-playing-for-claude-code"
+}
